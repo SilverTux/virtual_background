@@ -28,5 +28,9 @@ need to run like the following:
 
 This will build the container and run it with the necessary parameters.
 
-Additional information:
+## License
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+## Additional information
 https://github.com/tensorflow/tfjs-models/tree/master/body-pix
